@@ -34,5 +34,5 @@
 2. Navigate to the root directory of the project.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone git@github.com:preronaghosh/python-scripting.git
+python scripting.py
